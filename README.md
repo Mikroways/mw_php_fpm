@@ -1,5 +1,7 @@
 # mw_php_fpm library cookbook
 
+[![Build Status](https://travis-ci.org/Mikroways/mw_php_fpm.svg?branch=master)](https://travis-ci.org/Mikroways/mw_php_fpm)
+
 As many applications depends on older PHP versions, sometimes, the only way to
 configure those applications using newer platforms is via Docker.
 This cookbooks provides a resource that will abstract the way you can configure
