@@ -1,0 +1,10 @@
+name 'mw_php_fpm'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mw_php'
+long_description 'Installs/Configures mw_php'
+version '0.1.0'
+
+depends 'docker', '~> 2.0'
+depends 'php-fpm', '~> 0.7.0'
